@@ -78,7 +78,7 @@ int main(int argc, char *argv[])
 
     app.setApplicationName("Drag VPN");
     app.setOrganizationName(ORGANIZATION_NAME);
-    app.setApplicationDisplayName(APPLICATION_NAME);
+    app.setApplicationDisplayName("Drag VPN");
 
     app.loadFonts();
 
