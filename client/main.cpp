@@ -76,7 +76,7 @@ int main(int argc, char *argv[])
 
     app.registerTypes();
 
-    app.setApplicationName(APPLICATION_NAME);
+    app.setApplicationName("Drag VPN");
     app.setOrganizationName(ORGANIZATION_NAME);
     app.setApplicationDisplayName(APPLICATION_NAME);
 
